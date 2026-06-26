@@ -593,9 +593,9 @@ No environment variables required all configuration is handled at runtime by `Ap
 
 ## Author
 
-**Isuru Lakmal Peiris**
-GitHub: [@ilpeiris](https://github.com/ilpeiris)
-LinkedIn: [linkedin.com/in/ilpeiris](https://linkedin.com/in/ilpeiris)
+**Mawantha Deeganu**
+GitHub: [@Mawantha5336](https://github.com/Mawantha5336)
+LinkedIn: [linkedin.com/in/Mawantha](https://www.linkedin.com/authwall?trk=gf&trkInfo=AQEotG-3JWbhEwAAAZ8Er6IYdngd32wSTnv7NGb6oHbCDzQ694OaoQe2Y97Nx8rDz5w-cqpkHGDwos29tFJqGgTqAiQdWXuqP8NsgNkNYaywYCPu81JgE2nk2cd6uTeXyNVhck0=&original_referer=https://github.com/&sessionRedirect=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fmawantha-deeganu-505732229)
 
 ## License
 
